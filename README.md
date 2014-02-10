@@ -30,4 +30,10 @@ ECE_281-lab2(PRELAB ASSIGMENT)
 
 ##Screenshot of testbench
 
-![alt tag](https://github.com/gytenis98/ECE_281-lab2/blob/master/lab_2d_jn_testbench.PNG)
+![alt tag](http://s3.postimg.org/wqmnx4l9f/lab_2d_jn_testbench.png)
+
+##Debugging log
+I did not face any big challanges yet in this lab.
+
+##Documentation statement:
+
