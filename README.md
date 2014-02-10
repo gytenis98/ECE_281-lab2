@@ -36,4 +36,7 @@ ECE_281-lab2(PRELAB ASSIGMENT)
 I did not face any big challanges yet in this lab.
 
 ##Documentation statement:
-
+Graphicas taken from pages below:
+http://en.wikibooks.org/wiki/Microprocessor_Design/Add_and_Subtract_Blocks
+http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/fulladd.html
+http://www.eeweb.com/electronics-quiz/ripple-carry-adder-logic
