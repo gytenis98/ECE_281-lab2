@@ -30,4 +30,4 @@ ECE_281-lab2(PRELAB ASSIGMENT)
 
 ##Screenshot of testbench
 
-![alt tag] (https://github.com/gytenis98/ECE_281-lab2/blob/master/lab_2d_jn_testbench.PNG)
+![alt tag](https://github.com/gytenis98/ECE_281-lab2/blob/master/lab_2d_jn_testbench.PNG)
