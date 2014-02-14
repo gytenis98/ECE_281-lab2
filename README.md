@@ -59,3 +59,5 @@ The first error occured while I was trying to check the syntax of the four bit a
 The second syntax challenge was with " and '. I had to do research in google of when to use which.
 The third challange occured while I was doing a test bench for the four bit adder. I had to google how to do loops. I used the design from this website "http://www.seas.upenn.edu/~ese171/vhdl/VHDLTestbench.pdf"
 
+
+Captain Silva checked the functionality. Overflow does not work properly.
