@@ -53,3 +53,9 @@ http://www.eeweb.com/electronics-quiz/ripple-carry-adder-logic
 ##Testbench screenshot
 
 ![alt tag](http://s27.postimg.org/3v2xjo003/screenshot_final.png)
+
+####Error log
+First error occured while I was trying to check syntax of four bit adder. It were few stupid mistakes like forgeting to add PORT in before component or ":" instead of "=>".
+Second syntax challange was with " and '. I had to do a research in google when to to use which.
+Third little bit bigger challange occured while I was doing test bench for four bit adder. I had to google how to do loops. I used design from this website "http://www.seas.upenn.edu/~ese171/vhdl/VHDLTestbench.pdf"
+
