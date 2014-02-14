@@ -43,3 +43,13 @@ http://en.wikibooks.org/wiki/Microprocessor_Design/Add_and_Subtract_Blocks
 http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/fulladd.html
 
 http://www.eeweb.com/electronics-quiz/ripple-carry-adder-logic
+
+#ECE 281 - LAB2 (LAB)
+
+##Final circuit desing
+
+![alt tag](http://s9.postimg.org/ew2hy2qsf/2014_02_13_20_56_10.jpg)
+
+##Testbench screenshot
+
+![alt tag](http://s27.postimg.org/3v2xjo003/screenshot_final.png)
