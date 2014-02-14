@@ -60,4 +60,4 @@ The second syntax challenge was with " and '. I had to do research in google of 
 The third challange occured while I was doing a test bench for the four bit adder. I had to google how to do loops. I used the design from this website "http://www.seas.upenn.edu/~ese171/vhdl/VHDLTestbench.pdf"
 
 
-Captain Silva checked the functionality. Everything works but overflow function. 7 + 1 does not.
+Captain Silva checked the functionality. Everything works but overflow function. 7 + 1 does not. Can't find the error. Everything else looks working. Even other overflow events.
