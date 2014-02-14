@@ -123,7 +123,7 @@ BEGIN
 								
 								wait for 1 ns;
 								
-								assert (S = Ain + Bin) report "Expected A - B = " &
+								assert (S = Ain - Bin) report "Expected A - B = " &
 										integer'image(to_integer(signed((Ain+Bin)))) & " for A = " &
 										integer'image(to_integer(signed((Ain)))) & " for B = " &
 										integer'image(to_integer(signed((Bin)))) & ", got " &
